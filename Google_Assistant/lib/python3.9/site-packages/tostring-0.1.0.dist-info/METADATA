@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: tostring
+Version: 0.1.0
+Summary: Translate Python built-in types into their string equivalents.
+Home-page: https://github.com/RDIL/tostring
+Author: Reece Dunham
+Author-email: me@rdil.rocks
+License: UNKNOWN
+Keywords: to string python builtins
+Platform: UNKNOWN
+Description-Content-Type: text/markdown
+
+# tostring
+
+Translate Python built-in types into their string equivalents.
+
+
