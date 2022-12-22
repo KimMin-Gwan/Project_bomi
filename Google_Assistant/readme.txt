@@ -1,4 +1,4 @@
-# 구글 어시스턴트 API 인증 by JH KIM
+구글 어시스턴트 API 인증 by JH KIM
 1. 구글 어시스턴트 라이브러리 설치 및 샘플 설치
 	python -m pip install --upgrade google-assistant-library
 	python -m pip install --upgrade google-assistant-sdk[samples]
