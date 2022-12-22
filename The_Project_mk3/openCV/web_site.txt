@@ -1,0 +1,1 @@
+https://github.com/google-coral/examples-camera/blob/master/opencv/README.md#opencv-camera-examples-with-coral
