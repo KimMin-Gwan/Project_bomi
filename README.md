@@ -9,7 +9,7 @@
  - Care Robot for Elderly People Living Alone  
  + 독거노인을 위한 도우미 로봇 
  + 제작기간 22/07/01/ ~ 22/11/25  
- + 
+  
 <br>
 
 ## Contents
