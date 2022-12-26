@@ -5,11 +5,12 @@
 대표학생:정보통신공학과 김재현  
 참여학생:정보통신공학과 김민관 박세빈 신대홍  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;기계공학부 도기명 서정헌  
-# CDP_in_2022
+# Details
  - Care Robot for Elderly People Living Alone  
  + 독거노인을 위한 도우미 로봇 
- + 제작기간 22/07/01/ ~ 
-<br/>
+ + 제작기간 22/07/01/ ~ 22/11/25  
+ + 
+<br>
 
 ## Contents
 - tracking 모듈은 mobilenet_ssd_v2 를 이용한 tensorflow lite 버전의 학습 모듈을 사용
